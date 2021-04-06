@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header.css"],"names":[],"mappings":"AAAC,OACO,uBACP,CACA,MACO,cAAc,CACd,UAAW,CACX,iBACR","file":"main.76b0d916.chunk.css","sourcesContent":[" header{\r\n        background-color:tomato\r\n }\r\n .logo{\r\n        font-size:40px;\r\n        color:white;\r\n        text-align:center\r\n}\r\n"]}
